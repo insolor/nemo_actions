@@ -1,0 +1,8 @@
+[Nemo Action]
+Active=true
+Name=GitFiend
+Exec=gitfiend %P
+Selection=none
+Extensions=any;
+Icon-Name=gitg
+Dependencies=gitfiend;
