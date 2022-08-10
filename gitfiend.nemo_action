@@ -1,3 +1,4 @@
+# Nemo action to run GitFiend (https://gitfiend.com)
 [Nemo Action]
 Active=true
 Name=GitFiend
